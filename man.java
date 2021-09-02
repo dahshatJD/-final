@@ -1,7 +1,7 @@
 public class man {
 
     
-}
+
  public static void main(String[] args) {  
         //defining an 'age' variable  gir
         int age=65;  
@@ -10,3 +10,4 @@ public class man {
             System.out.print("Age is greater than 18");  
         }  
     }
+}
